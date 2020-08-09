@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b799fb12-88f6-4a0a-bc38-cb29bf80a9dc" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="tsconfig.json" />
+        <option value="TypeScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1fpMpUXDIiJrmwFDh7ZF41iDsZg" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="javascript.nodejs.core.library.configured.version" value="8.10.0" />
+    <property name="javascript.nodejs.core.library.typings.version" value="8.10.0" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../xampp/htdocs/beedoo" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="ts.external.directory.path" value="C:\Program Files\JetBrains\WebStorm 2020.2\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\rodri\WebstormProjects\uwebsockets\src" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b799fb12-88f6-4a0a-bc38-cb29bf80a9dc" name="Default Changelist" comment="" />
+      <created>1596910764459</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1596910764459</updated>
+      <workItem from="1596910765544" duration="12388000" />
+      <workItem from="1596971772609" duration="4299000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="3109" y="167" key="FileChooserDialogImpl" timestamp="1596932323734">
+      <screen x="2560" y="0" width="1536" height="832" />
+    </state>
+    <state x="3109" y="167" key="FileChooserDialogImpl/2560.0.1536.832/0.0.2560.1040@2560.0.1536.832" timestamp="1596932323734" />
+    <state x="987" y="119" width="585" height="801" key="find.popup" timestamp="1596918581965">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state x="987" y="119" width="585" height="801" key="find.popup/2560.0.1536.832/0.0.2560.1040@0.0.2560.1040" timestamp="1596918581965" />
+  </component>
+</project>
