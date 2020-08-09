@@ -1,0 +1,9 @@
+config:
+  target: "wss://events1.beedoo.io/"
+  phases:
+    - duration: 10 # Run scenario for 10 seconds
+      arrivalCount: 2000 # Create 20 virtual users per scenario
+scenarios:
+  - engine: "ws"
+    flow:
+      - think: 1
